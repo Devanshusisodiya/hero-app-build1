@@ -58654,7 +58654,7 @@ K.HW.prototype={
 tw:function(a,b){return this.a4p(a,b)},
 a4p:function(a,b){var s=0,r=P.a7(t.z),q=this,p,o,n
 var $async$tw=P.a2(function(c,d){if(c===1)return P.a4(d,r)
-while(true)switch(s){case 0:p=P.p4("http://127.0.0.1:8000/post-hero/")
+while(true)switch(s){case 0:p=P.p4("https://heroapp27.herokuapp.com/post-hero/")
 o=t.N
 n=P.ao(["Content-Type","application/json"],o,o)
 s=2
