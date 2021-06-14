@@ -58620,7 +58620,7 @@ return s==null?this.d=[]:s},
 pi:function(){var s=0,r=P.a7(t.z),q=this,p
 var $async$pi=P.a2(function(a,b){if(a===1)return P.a4(b,r)
 while(true)switch(s){case 0:s=2
-return P.ab(G.arR(P.p4("https://heroapp27.herokuapp.com/get-heros/")),$async$pi)
+return P.ab(G.arR(P.p4("https://nodeapp26.herokuapp.com/api")),$async$pi)
 case 2:p=b
 q.aL(new Y.a2_(q,C.aH.Hy(0,B.arI(U.apU(p.e).c.a.h(0,"charset")).dc(0,p.x),null)))
 return P.a5(null,r)}})
@@ -58654,7 +58654,7 @@ K.HW.prototype={
 tw:function(a,b){return this.a4p(a,b)},
 a4p:function(a,b){var s=0,r=P.a7(t.z),q=this,p,o,n
 var $async$tw=P.a2(function(c,d){if(c===1)return P.a4(d,r)
-while(true)switch(s){case 0:p=P.p4("https://heroapp27.herokuapp.com/post-hero/")
+while(true)switch(s){case 0:p=P.p4("https://nodeapp26.herokuapp.com/api")
 o=t.N
 n=P.ao(["Content-Type","application/json"],o,o)
 s=2
