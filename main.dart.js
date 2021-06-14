@@ -58611,7 +58611,7 @@ gl:function(a){var s=this.a,r=s[0],q=s[1],p=s[2]
 s=s[3]
 return Math.sqrt(r*r+q*q+p*p+s*s)}}
 F.BR.prototype={
-V:function(a,b){return new S.t9(new K.jv(null),"Flutter Demo",X.adC(null,C.uj),!1,null)}}
+V:function(a,b){return new S.t9(new K.jv(null),"Heroes",X.adC(null,C.uj),!1,null)}}
 Y.i2.prototype={
 aO:function(){return new Y.Hx(C.m)}}
 Y.Hx.prototype={
